@@ -1,4 +1,3 @@
-#new1
 import unittest
 
 class NumbersTest(unittest.TestCase):

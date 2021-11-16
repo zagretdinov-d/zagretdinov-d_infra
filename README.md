@@ -1,2 +1,2 @@
 # zagretdinov-d_infra
-zagretdinov-d Infra repository
+zagretdinov-d Infra reposit
